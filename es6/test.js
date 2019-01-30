@@ -1,4 +1,4 @@
-"use strict"
+'use strict'
 //es6 : block scope 변수 선언 가능
 const sentences = [
   {subject :'Javascript', verb:'is', object:'great'},

@@ -9,14 +9,12 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
-        "comma-dangle":[
-          2,
-          "always-multiline"
-        ],
 
+        "no-console":"off",
+    
         "indent": [
-            2,
-            4
+            0,
+            "tab"
         ],
         "linebreak-style": [
             "error",
